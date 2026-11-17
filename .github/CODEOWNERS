@@ -1,0 +1,5 @@
+# Every pull request asks prantldev for a review, so it shows up under
+# "Needs your review" on github.com/pulls, whoever opened it: Renovate, the
+# agents' GitHub Apps, another account. (A pull request prantldev opens
+# itself is listed under its own anyway.)
+* @prantldev
